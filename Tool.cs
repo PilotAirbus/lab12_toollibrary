@@ -70,6 +70,7 @@
             string[] tools = { "дрель", "отбойный молоток", "бензопила", "газонокосилка", "шуруповерт" };
 
             Name = tools[rand.Next(tools.Length)];
+            ID = new IdNumber(rand.Next(0, 10000));
         }
 
         //Сравнение объектов

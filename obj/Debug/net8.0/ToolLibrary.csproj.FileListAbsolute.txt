@@ -31,3 +31,4 @@ C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/obj/Debu
 /Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/refint/ToolLibrary.dll
 /Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.pdb
 /Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ref/ToolLibrary.dll
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.sourcelink.json
