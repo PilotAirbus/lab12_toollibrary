@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|c:\\users\\89194\\source\\repos\\toollibrary\\diagramma.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|solutionrelative:diagramma.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|c:\\users\\89194\\source\\repos\\toollibrary\\showdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|solutionrelative:showdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|c:\\users\\89194\\source\\repos\\toollibrary\\tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|solutionrelative:tool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|c:\\users\\89194\\source\\repos\\toollibrary\\eltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|solutionrelative:eltool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|c:\\users\\89194\\source\\repos\\toollibrary\\meastool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|solutionrelative:meastool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|c:\\users\\89194\\source\\repos\\toollibrary\\handtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5709508B-DDC7-4B03-A6CA-1EDFB82D9AF0}|ToolLibrary.csproj|solutionrelative:handtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tool.cs",
+              "DocumentMoniker": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\Tool.cs",
+              "RelativeDocumentMoniker": "Tool.cs",
+              "ToolTip": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\Tool.cs",
+              "RelativeToolTip": "Tool.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T07:36:15.225Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HandTool.cs",
+              "DocumentMoniker": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\HandTool.cs",
+              "RelativeDocumentMoniker": "HandTool.cs",
+              "ToolTip": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\HandTool.cs",
+              "RelativeToolTip": "HandTool.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowDcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:36:54.233Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ElTool.cs",
+              "DocumentMoniker": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\ElTool.cs",
+              "RelativeDocumentMoniker": "ElTool.cs",
+              "ToolTip": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\ElTool.cs",
+              "RelativeToolTip": "ElTool.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:38:13.1Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeasTool.cs",
+              "DocumentMoniker": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\MeasTool.cs",
+              "RelativeDocumentMoniker": "MeasTool.cs",
+              "ToolTip": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\MeasTool.cs",
+              "RelativeToolTip": "MeasTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:43:17.63Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowData.cs",
+              "DocumentMoniker": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\ShowData.cs",
+              "RelativeDocumentMoniker": "ShowData.cs",
+              "ToolTip": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\ShowData.cs",
+              "RelativeToolTip": "ShowData.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T10:28:50.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Diagramma.cd",
+              "DocumentMoniker": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\Diagramma.cd",
+              "RelativeDocumentMoniker": "Diagramma.cd",
+              "ToolTip": "C:\\Users\\89194\\source\\repos\\ToolLibrary\\Diagramma.cd",
+              "RelativeToolTip": "Diagramma.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-03-09T11:01:07.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

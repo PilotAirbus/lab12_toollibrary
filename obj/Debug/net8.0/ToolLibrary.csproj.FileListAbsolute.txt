@@ -1,0 +1,33 @@
+C:/Users/89194/source/repos/ToolLibrary/bin/Debug/net8.0/ToolLibrary.deps.json
+C:/Users/89194/source/repos/ToolLibrary/bin/Debug/net8.0/ToolLibrary.dll
+C:/Users/89194/source/repos/ToolLibrary/bin/Debug/net8.0/ToolLibrary.pdb
+C:/Users/89194/source/repos/ToolLibrary/obj/Debug/net8.0/ToolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/89194/source/repos/ToolLibrary/obj/Debug/net8.0/ToolLibrary.AssemblyInfoInputs.cache
+C:/Users/89194/source/repos/ToolLibrary/obj/Debug/net8.0/ToolLibrary.AssemblyInfo.cs
+C:/Users/89194/source/repos/ToolLibrary/obj/Debug/net8.0/ToolLibrary.csproj.CoreCompileInputs.cache
+C:/Users/89194/source/repos/ToolLibrary/obj/Debug/net8.0/ToolLibrary.dll
+C:/Users/89194/source/repos/ToolLibrary/obj/Debug/net8.0/refint/ToolLibrary.dll
+C:/Users/89194/source/repos/ToolLibrary/obj/Debug/net8.0/ToolLibrary.pdb
+C:/Users/89194/source/repos/ToolLibrary/obj/Debug/net8.0/ref/ToolLibrary.dll
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/bin/Debug/net8.0/ToolLibrary.deps.json
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/bin/Debug/net8.0/ToolLibrary.dll
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/bin/Debug/net8.0/ToolLibrary.pdb
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.AssemblyInfoInputs.cache
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.AssemblyInfo.cs
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.csproj.CoreCompileInputs.cache
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.dll
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/refint/ToolLibrary.dll
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.pdb
+C:/Users/89194/OneDrive/Рабочий стол/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ref/ToolLibrary.dll
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/bin/Debug/net8.0/ToolLibrary.deps.json
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/bin/Debug/net8.0/ToolLibrary.dll
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/bin/Debug/net8.0/ToolLibrary.pdb
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.AssemblyInfoInputs.cache
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.AssemblyInfo.cs
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.csproj.CoreCompileInputs.cache
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.dll
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/refint/ToolLibrary.dll
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ToolLibrary.pdb
+/Users/sergejbaskirov/Desktop/ЛР итог/LR 12/LAB12/ToolLibrary/obj/Debug/net8.0/ref/ToolLibrary.dll
